@@ -1,0 +1,52 @@
+[    
+    {
+    "question": "What is my favourite car??",
+    "choice1": "Elantra",
+   " choice2": "Venza",
+   " choice3": "Range Rover",
+    "choice4": "Lambourgini",
+    "answer": 4
+},
+{
+    "question": "What is my Best food??",
+    "choice1": "Beans and egg",
+    "choice2": "Plantain and egg",
+    "choice3": "Fried Rice and Beans",
+    "choice4": "White Rice and stew",
+    "answer": 2
+},
+{
+    "question": "What Phone am i using currently??",
+   " choice1": "Samsung Note 11 ",
+    "choice2": "Techno Spark 12",
+    "choice3": "Infinix Note 11",
+    "choice4": "Iphone 14 Pro Max",
+    "answer": 4
+},
+{
+    "question": "What is my Name??",
+    "choice1": "Gilbert",
+    "choice2": "Albert",
+    "choice3": "Micheal",
+    "choice4": "James",
+    "answer": 1
+},
+
+{
+    "question": "Where do i live??",
+    "choice1": "Ikeja",
+    "choice2": "Gbagada",
+    "choice3": "Lekki",
+    "choice4": "Ikorodu",
+    "answer": 2
+},
+
+{
+    "question": "What is my favourite car??",
+    "choice1": "Elantra",
+    "choice2": "Venza",
+    "choice3": "Range Rover",
+    "choice4": "Lambourgini",
+    "answer": 4
+}
+]
